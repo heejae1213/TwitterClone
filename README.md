@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *TwitterClone*
 
 **TwitterClone** is a basic twitter app to read your tweets.
 
-Time spent: **4** hours spent in total
+Time spent: **3~4** hours spent in total
 
 ## User Stories
 
@@ -23,10 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-1. User sees app icon in home screen and styled launch screen. (1pt)
-User can log in. (1pt)
-User can log out. (1pt)
-User can view tweets with the user profile picture, username, and tweet text. (6pts)
+1. User sees app icon in home screen and styled launch screen. (1pt) <\br>
+User can log in. (1pt) <\br>
+User can log out. (1pt) <\br>
+User can view tweets with the user profile picture, username, and tweet text. (6pts) <\br>
 
 <img src='http://g.recordit.co/QBRRtE31Ne.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough' />
 
