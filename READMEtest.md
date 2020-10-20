@@ -26,18 +26,18 @@ For example, if the user types in "hel", the program will return a list of words
 It could be used towards autocomplete or misspelling correction feature of the text editor.
 
 ## How to run this program
-Run ''' python editor.py '''
+Run ``` python editor.py ```
 
 ## Design decisions or tradeoffs I've made
 
 * Modified current data structure by implementing a **Dictionary** that carries (key: first character of the word (ex. 'A', 'B', ...), value: set of the words that start with certain alphabet) as its elements.
 
-Comparing the time consumed for ***misspellings()*** with Set and Dictionary, there was not much difference between them.
+➡️ Comparing the time consumed for ***misspellings()*** with Set and Dictionary, there was not much difference between them.
 So, I've decided to add more structure to the data structure.
 
 * Implemented **Trie** to support misspellings corrections or autocomplete feature.
 
-Assumed that I have enough space to have both Dictionary and Trie.
+➡️ Assumed that I have enough space to have both Dictionary and Trie.
 
 ## Extensions I would like to add if I had more time
 
